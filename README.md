@@ -17,7 +17,7 @@ You will only need one thing installed. <br />
 
   03. Clone this repository on your computer.
 
-  04. Open the `participants` directory. Now, copy and paste the `hi@bhavandar` file in the same directory.
+  04. Open the `participants` directory. Now, copy and paste the `hi@bhavandar` file in the same directory. **DO NOT** change the original file.
 
   05. Rename the copy with 'hi@your_username' 
 
