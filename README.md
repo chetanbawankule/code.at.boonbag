@@ -4,7 +4,7 @@ This repository is dedicated to help the team at Boonbag to learn, experiment an
 ## Requirements
 You will only need one thing installed. <br />
   **Git**<br />
-  Refer youtube to learnt the installation and use of git and github.
+  Refer youtube to learn the installation and use of git and github.
 
 ## Steps to start
 
