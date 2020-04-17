@@ -3,7 +3,6 @@ This repository is dedicated to help the team at Boonbag to learn, experiment an
 
 ## Requirements
 You will only need two things installed. <br />
-  **Python**<br />
   **Git**<br />
   Refer youtube to learnt the installation and use of git and github.
 
